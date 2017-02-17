@@ -9,6 +9,14 @@ clearBut.addEventListener("click", function() {
 var tick = 50;
 var flag = 0;
 
+var animateDot = function() {
+
+	var drawDot = function() {
+
+	}
+	
+}
+
 var circle = function() {
 	ctx.clearRect(0, 0, canvas.width, canvas.height);
 
